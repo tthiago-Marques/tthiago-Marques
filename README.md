@@ -1,6 +1,6 @@
-- 👋 olá, Eu sou @tthiago-Marques, tenho 23 anos e sou da capital de Recife-PE
+- 👋 olá, Eu sou @tthiago-Marques, tenho 24 anos e sou da capital de Recife-PE
 - 👀 Estou interessado em experiências e aprendizados no mundo da tecnologia, de forma proffisional e proativa, visando sempre maior eficácia e eficiência. 
-- 🌱 Atualmente estou cursando Desenvolvimento de Sistemas (DSI) e aprendendo as tecnologias de Python, HTML5, CSS3, SQL e MySQL ...
+- 🌱 Atualmente estou cursando Ánalise e Desenvolvimento de Sistemas (ADS) e aprendendo as tecnologias de Python, HTML5, CSS3, SQL e MySQL ...
 - 📫 thiagomarquesdev23@gmail.com ou Numero e contato via WhatsApp +55(81)99375-7950
 
 <!---
